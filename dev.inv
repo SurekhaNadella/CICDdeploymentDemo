@@ -1,2 +1,2 @@
 [webserver]
-172.31.4.50 ansible_user=kmaster
+172.31.4.50 ansible_user=edureka
